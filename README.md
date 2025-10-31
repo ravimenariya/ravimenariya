@@ -5,7 +5,7 @@
 
  <img align="right" top="500" height="300" width="400" alt="GIF" src="codingg.gif">
 
-- 🌱 I’m currently learning **Devops & DSA in C++.**
+- 🌱 I’m currently learning **Devops & DSA.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
